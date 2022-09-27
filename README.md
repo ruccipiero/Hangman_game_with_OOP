@@ -25,3 +25,7 @@ class Hangman:
 
 ## The program was tested only on Python 3.10.4
 It works on his own and will import the random and typing libraries and the and the corresponding dependencies
+
+- [x] works on his own
+- [ ] Requires you to import other libraries
+- [x] Will install the libraries for you
