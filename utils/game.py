@@ -16,7 +16,7 @@ class Hangman:
     the methods are:
     - play
     - start_game
-    it has been tested on Python 3.10.4 and requires to import re and random libraries
+    it has been tested on Python 3.10.4 and requires to import random libraries
     """    
   # possible_words contains a list of words. Out of these words, one will be selected as the word to find. 
   possible_words:List[int] = ['becode', 'learning', 'mathematics', 'sessions']
